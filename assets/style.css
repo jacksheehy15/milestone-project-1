@@ -1,6 +1,5 @@
-.embed-responsive-item {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+
+#shm1 {
+    font-size: 30px;
+    color: red;
 }
