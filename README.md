@@ -19,15 +19,15 @@ As a Frequent User, I want to check to see if there are any new announcements.
 
 Design
 Colour Scheme
-The two main colours used are white and blue.
+The two main colours used are white and blue and black for the font.
 
 Typography
-The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+The Oswald font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+Oswald is a clean font that I find attractive and appropriate.
 
 Imagery
 Imagery is important. The large, background hero video is designed to be striking and catch the user's attention. 
-It also has a nide song playing in the background that will grab the viewers attention.
+It also has a popular edm song playing in the background that will grab the viewers attention.
 
 Wireframes
 Desktop/Laptop Wireframe - https://www.figma.com/file/VKebMcOSMv7kaCPIMLpeu0/Blasket-Island-Music-Festival?node-id=1%3A4
@@ -40,7 +40,7 @@ Features
 Responsive on all device sizes
 
 Interactive elements
-A hamburger dropdown menu is used in the tablet/mobile version of the webpage.
+A hamburger dropdown menu is used in the tablet and mobile version of the webpage.
 
 Technologies Used
 Languages Used
@@ -52,7 +52,7 @@ Bootstrap was used to assist with the responsiveness and styling of the website.
 Hover.css:
 Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 Google Fonts:
-Google fonts were used to import the '' font into the style.css file which is used on all pages throughout the project.
+Google fonts were used to import the 'Oswald' and the fallback font 'Sans Serif' font into the style.css file which is used on all pages throughout the project.
 Font Awesome:
 Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 jQuery:
@@ -62,9 +62,9 @@ Git was used for version control by utilizing the Gitpod terminal to commit to G
 GitHub:
 GitHub is used to store the projects code after being pushed from Git.
 Figma 
-Figma was used to creat my template/wireframes and to make my idea come to life
-Balsamiq:
-Balsamiq was used to create the wireframes during the design process.
+Figma was used to creat my template/wireframes and to make my idea come to life.
+FreeLogoDesign
+FreeLogoDesign was used to create the organisation logo that can be found in the header and the footer.
 Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -78,10 +78,11 @@ Upon entering the site, users are automatically greeted with a clean and easily 
 The user has a few options, navigate to the gallery , lineup or ticket page or they can stay on the home page and watch the video teaser and read down the webpage.
 
 The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-At the bottom of the first 3 pages there is a logo which the user can click on to redirect them to the home page, there is also our social links.
+At the bottom of the first 3 pages there is a logo which the user can click on to redirect them to the home page, there is also the organisations social links.
+
 As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
 
-Once the new visitor has watched the hero video, they will be greeted by a little article section including an article about our Headline act, where the festival is held and an article about covid-19 realted to this years rendition of the festival.
+Once the new visitor has watched the hero video, they will be greeted by a little article section including an article about our Headline act, where the festival is held and an article about covid-19 related to this years edition of the festival.
 The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
 Returning Visitor Goals
@@ -96,31 +97,22 @@ Here they message the organisation on social media or they can call/email the or
 The footer contains links to the organisations Facebook, Twitter and Instagram and YouTube page as well as the organization's email and phone number.
 Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
-
-LEFT OFF Here
-
-
-The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-
-The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
 Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+As a Frequent User, I want to check to see if there are any newly added artists.
 
-The user would already be comfortable with the website layout and can easily click the banner message.
-As a Frequent User, I want to check to see if there are any new blog posts.
+The user would already be comfortable with the website layout and can easily click an option in the menu.
+As a Frequent User, I want to check to see if there are any new announcements.
 
-The user would already be comfortable with the website layout and can easily click the blog link
-As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+The user would already be comfortable with the website layout and can easily click the social links
+As a Frequent User, I want to be abel to navigate to the organisations social media easily.
 
 At the bottom of every page their is a footer which content is consistent throughout all pages.
-To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+To the right hand side of the footer for tablets/laptop the user can see the social links, phone number and email address.
+These will be located in the middle of the footer on a mobile device.
+
 Further Testing
-The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+The Website was tested on Google Chrome, Internet Explorer, Safari browsers.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6, iPhone 8 and iPad Pro.
 A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 Known Bugs
