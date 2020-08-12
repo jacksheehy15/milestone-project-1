@@ -61,6 +61,8 @@ Git
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 GitHub:
 GitHub is used to store the projects code after being pushed from Git.
+YouTube 
+YouTube was used to get the hero video (ultra miami trailer)
 Figma 
 Figma was used to creat my template/wireframes and to make my idea come to life.
 FreeLogoDesign
