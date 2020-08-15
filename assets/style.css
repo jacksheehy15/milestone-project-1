@@ -1,3 +1,4 @@
-#navbarNav {
-    color: #fa532f;
-    }
+.text-align {
+    display: flex;
+    align-items: center;
+}
