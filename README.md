@@ -118,9 +118,9 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6
 A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 Known Bugs
-On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-A white gap can be seen to the right of the footer and navigation bar as a result.
-On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+
+
+
 Deployment
 GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
@@ -157,7 +157,7 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 
 Credits
 Code
-The full-screen hero image code came from this StackOverflow post
+The full-screen hero video code came from YouTube
 
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
@@ -172,5 +172,5 @@ Media
 All Images were created by the developer.
 Acknowledgements
 My Mentor for continuous helpful feedback.
-
+The Code Institute slack channel and students who also helped alot
 Tutor support at Code Institute for their support.
