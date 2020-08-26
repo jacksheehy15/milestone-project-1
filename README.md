@@ -109,12 +109,12 @@ The user would already be comfortable with the website layout and can easily cli
 As a Frequent User, I want to be abel to navigate to the organisations social media easily.
 
 At the bottom of every page their is a footer which content is consistent throughout all pages.
-To the right hand side of the footer for tablets/laptop the user can see the social links, phone number and email address.
+The footer for tablets/laptop the user can see the social links, phone number and email address.
 These will be located in the middle of the footer on a mobile device.
 
 Further Testing
 The Website was tested on Google Chrome, Internet Explorer, Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6, iPhone 8 and iPad Pro.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6, iPhone 8 and iPad Pro and a custom device which I own, a Samsung Galaxy S20 Ultra.
 A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 Known Bugs
@@ -157,11 +157,17 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 
 Credits
 Code
-The full-screen hero video code came from YouTube
+The full-screen hero video code came from YouTube @ Ultra Music Festival
 
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
+
+W3 Schools : For helpinng to understand and teach me code etc.
+
+YouTube : YouTube had alot of tutorials to offer to help me with my project and bootstrap. I'd like to give credit to Anna Ghilespy for her Bootstrap 4 grid system tutorial video.
+
+Slack : I'd like to thank the fellow students on the Slack channel especially Bim Williams and Bartek Makowski. Bim helped me wrap my head around bootstrap and Bartek helped me understand Wireframing a bit more.
 
 Content
 All content was written by the developer.
@@ -169,7 +175,8 @@ All content was written by the developer.
 Psychological properties of colours text in the README.md was found here
 
 Media
-All Images were created by the developer.
+I got all my images from Google Images
+I created the Blasket Sound logo on a website called freelogodesign.org
 Acknowledgements
 My Mentor for continuous helpful feedback.
 The Code Institute slack channel and students who also helped alot
