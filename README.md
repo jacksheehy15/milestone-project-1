@@ -176,7 +176,8 @@ Psychological properties of colours text in the README.md was found here
 
 Media
 I got all my images from Google Images
-I created the Blasket Sound logo on a website called freelogodesign.org
+I created the Blasket Sound logo on a website called https://freelogodesign.org
+I created my lineupposter on a website called https://festivalpostergenerator.com/
 Acknowledgements
 My Mentor for continuous helpful feedback.
 The Code Institute slack channel and students who also helped alot
