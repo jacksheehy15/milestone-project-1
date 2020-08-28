@@ -163,7 +163,7 @@ Bootstrap4: Bootstrap Library used throughout the project mainly to make site re
 
 MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
 
-W3 Schools : For helpinng to understand and teach me code etc.
+W3 Schools : For helpinng to understand the responsive side of bootstrap
 
 YouTube : YouTube had alot of tutorials to offer to help me with my project and bootstrap. I'd like to give credit to Anna Ghilespy for her Bootstrap 4 grid system tutorial video.
 
