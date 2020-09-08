@@ -73,10 +73,10 @@ body , html {
     transform: translate(-50%, -50%);
     color:  white;
     }
-
-    .shm-image {
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        position: relative;
-    }
+/* Lineup Page */
+.lineup-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
