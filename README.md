@@ -22,8 +22,8 @@ Colour Scheme
 The two main colours used are white and blue and black for the font.
 
 Typography
-The Oswald font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-Oswald is a clean font that I find attractive and appropriate.
+The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+Roboto is a clean font that I find attractive and appropriate. I also used the Anton font for the H1 text on the Gallery and Lineup page, just to change it up a bit.
 
 Imagery
 Imagery is important. The large, background hero video is designed to be striking and catch the user's attention. 
@@ -114,7 +114,7 @@ These will be located in the middle of the footer on a mobile device.
 
 Further Testing
 The Website was tested on Google Chrome, Internet Explorer, Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6, iPhone 8 and iPad Pro and a custom device which I own, a Samsung Galaxy S20 Ultra.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6, iPhone 8 and the standard iPad and a custom device which I own, a Samsung Galaxy S20 Ultra.
 A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 Known Bugs
@@ -168,6 +168,8 @@ W3 Schools : For helpinng to understand the responsive side of bootstrap
 YouTube : YouTube had alot of tutorials to offer to help me with my project and bootstrap. I'd like to give credit to Anna Ghilespy for her Bootstrap 4 grid system tutorial video.
 
 Slack : I'd like to thank the fellow students on the Slack channel especially Bim Williams and Bartek Makowski. Bim helped me wrap my head around bootstrap and Bartek helped me understand Wireframing a bit more.
+
+Reddit : Reddithelped alot for some questions I couldnt't find the answer to.
 
 Content
 All content was written by the developer.
