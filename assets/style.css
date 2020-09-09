@@ -89,6 +89,27 @@ font-family: 'Anton', sans-serif;
 }
 
 .html {
-    font-family: 'Roboto' , sans-serif
+    font-family: 'Roboto' , sans-serif;
 }
 
+/* Link Work*/
+
+a:link {
+    color: #129de3;
+}
+
+a:visited {
+    color: #129de3;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: 
+}
+
+.icon-cog {
+    color: #425e6b;
+}
