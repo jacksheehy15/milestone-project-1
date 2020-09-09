@@ -113,3 +113,8 @@ a:active {
 .icon-cog {
     color: #425e6b;
 }
+
+.centered {
+    position: absolute;
+}
+
