@@ -83,6 +83,29 @@ body , html {
     width: 80%;
 }
 
+.container .btn {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform:translate(-50%, -50%);
+    background-color:none;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.container .lineup-text {
+position: absolute;
+top: 5%;
+left: 40%;
+color: inherit;
+font-size: 50px;
+}
+
 /* Fonts*/
 .title-font {
 font-family: 'Anton', sans-serif;
@@ -118,3 +141,31 @@ a:active {
     position: absolute;
 }
 
+/* Ticket Modal */
+.container {
+    position: relative;
+    width: 50%;
+}
+
+.conatiner img {
+    width: 100%;
+}
+
+.container .btn {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.container .btn:hover{
+    background-color: black;
+}

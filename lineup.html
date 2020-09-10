@@ -82,7 +82,7 @@
                     <a
                       class="nav-link text-dark font-weight-bold text-uppercase"
                       href="about-us.html"
-                      >About Us</a
+                      >Info</a
                     >
                   </li>
                 </ul>
@@ -95,15 +95,60 @@
 <div class="container">
 <div class="row">
 <div class="col-md-12 col-sm-12 col-xs-12" >
-<h1 class="text-center title-font"> 2021 Line Up</h1>
+<h1 class="text-center title-font lineup-text"><u>2021 Line Up</u></h1>
 <img src="images/lineup.png"
-width="80%"
-height="80%"
+ width="80%"
+ height="80%"
  alt="Responsive image"
  class="img-fluid b-5 lineup-image">
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalCart">Buy Tickets!</button>
  </div>
 </div>
 </div>
+<div class="modal" id="modalCart" tabindex="-1" role="dialog" aria-labelledby="ticketModal" aria-hidden="true">
+<div class="modal-dialogue" role="document">
+<div class="modal-content">
+
+<!-- Modal Header-->
+<div class="modal-header">
+<h4 class="modal-title" id="myTicketModal">Your Cart</h4>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true"></span>
+</button>
+</div>
+<!-- Modal Body-->
+<div class="modal-body">
+<table class="table table-hover">
+<thead>
+
+<tr>
+<th>#</th>
+<th>Product Name</th>
+<th>Price</th>
+<th>Remove</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">1</th>
+<td>Weekend Ticket</td>
+<td>€220</td>
+<td><div><i class="fa fa-times"></i></div></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- Modal Footer -->
+<div class="modal-footer">
+<button type="button" class="btn btn-outline-primary" data-dismiss="modal">Close</button>
+<button class="btn btn-primary">Checkout</button>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Footer -->
  <footer class="page-footer font-small unique-color-dark">
       <div style="background-color: #bbdefb;">
         <div class="container">
@@ -134,7 +179,7 @@ height="80%"
           </div>
         </div>
       </div>
-
+      <!-- Footer Quote-->
       <div class="container text-center text-md-left mt-5">
         <div class="row mt-3">
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
@@ -148,7 +193,7 @@ height="80%"
               of July 2021!
             </p>
           </div>
-
+            <!-- Footer Links-->
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 d-none d-sm-block">
             <h6 class="text-uppercase font-weight-bold">Useful links</h6>
             <hr
@@ -164,8 +209,11 @@ height="80%"
             <p>
               <a href="gallery.html">Gallery</a>
             </p>
+               <p>
+              <a href="info.html">Info</a>
+            </p>
           </div>
-
+        <!-- Contact Footer -->
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
             <h6 class="text-uppercase font-weight-bold">Contact</h6>
             <hr
@@ -178,6 +226,7 @@ height="80%"
           </div>
         </div>
       </div>
+      <!-- Copyright-->
       <div class="footer-copyright text-center py-3">
         © 2020 Copyright:
         <a href="index.html"> Blasket Sound</a>
