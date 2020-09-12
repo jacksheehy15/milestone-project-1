@@ -213,7 +213,7 @@
       aria-labelledby="myModal"
       aria-hidden="true"
     >
-      <div class="modal-dialog" role="document">
+      <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-header">
             <h4 class="modal-title w-100 font-weight-bold text-center">
@@ -237,7 +237,7 @@
                 class="form-control validate"
                 placeholder="Your Name"
               />
-              <label data-error="wrong" data-success="right" for="form1"
+              <label data-error="wrong" aria-required="true" data-success="right" for="form1"
                 >Your Name</label
               >
             </div>
@@ -250,7 +250,7 @@
                   class="form-control validate"
                   placeholder="Email Address"
                 />
-                <label data-error="wrong" data-success="right" for="form2"
+                <label data-error="wrong" aria-required="true" data-success="right" for="form2"
                   >Your Email Address</label
                 >
               </div>
@@ -263,7 +263,7 @@
                     class="form-control validate"
                     placeholder="Subject"
                   />
-                  <label data-error="wrong" data-success="right" for="form3"
+                  <label data-error="wrong" aria-required="true" data-success="right" for="form3"
                     >Subject</label
                   >
                 </div>
@@ -273,9 +273,10 @@
                     <input
                       type="text"
                       id="form4"
-                      class="form-control validate"
+                      class="form-control validate float-right"
+                      placeholder="Your Message"
                     />
-                    <label data-error="wrong" data-success="right" for="form4"
+                    <label data-error="wrong" aria-required="true" data-success="right" for="form4"
                       >Your Message</label
                     >
                   </div>
