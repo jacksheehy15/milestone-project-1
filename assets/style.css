@@ -2,7 +2,7 @@
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 0 0;
 }
 
 
@@ -123,3 +123,9 @@ a:active {
 .centered {
     position: absolute;
 } 
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
