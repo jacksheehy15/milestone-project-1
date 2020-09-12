@@ -1,8 +1,21 @@
+/* Home Page Work*/
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #bbdefb;
+    padding: 50px;
+    font-size: 20px;
+    z-index: 1;
+}
+
 /* Gallery Responsiveness Work */
 .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 0;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 
@@ -101,15 +114,15 @@ font-family: 'Anton', sans-serif;
 /* Link Work*/
 
 a:link {
-    color: #129de3;
+    color: #042f63;
 }
 
 a:visited {
-    color: #129de3;
+    color: #042f63;
 }
 
 a:hover {
-    color: black;
+    color: rgb(18, 132, 224);
 }
 
 a:active {
@@ -123,9 +136,3 @@ a:active {
 .centered {
     position: absolute;
 } 
-
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
