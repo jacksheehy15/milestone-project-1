@@ -118,6 +118,10 @@ body , html {
     }
 }
 
+.card-columns {
+    margin: 0;
+}
+
 
 /* Fonts*/
 .title-font {
