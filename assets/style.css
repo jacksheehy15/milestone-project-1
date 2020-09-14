@@ -1,16 +1,23 @@
-/* Home Page Work*/
+/* Body Work*/
+body {
+    margin-top: 100px;
+}
+ 
+/*Info Page Work*/
 
-.sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    background-color: #bbdefb;
-    padding: 50px;
-    font-size: 20px;
-    z-index: 1;
+#info-nav {
+    background-color: #f58845;
 }
 
-/* Gallery Responsiveness Work */
+/* Home Page Work*/
+#home-nav {
+    background-color:#b0ccff;
+}
+
+/* Gallery Work */
+  #gallery-nav {
+      background-color: #ffc1b0;
+  }
 
 .row {
   display: flex;
@@ -46,7 +53,7 @@
   }
 }
 
-/* Header Work */
+/* Nav Work */
 
 .responsive {
     display: block;

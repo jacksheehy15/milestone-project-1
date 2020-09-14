@@ -1,3 +1,9 @@
+Blasket Sound Music festival
+
+Code Institute - Milestone Project for User-Centrick Frontend Developement
+
+![Responsive Design Photo](images/responsive.JPG)
+
 User Experience (UX)
 
 User stories
