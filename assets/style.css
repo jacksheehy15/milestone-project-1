@@ -111,12 +111,12 @@ body , html {
 /* Lineup Page */
 
 .lineup-text {
-    font-size: 80;
+    font-size: 80px;
 }
 
 @media (max-width: 768px) {
     .lineup-text {
-        font-size: 40;
+        font-size: 40px;
     }
 }
 
@@ -150,7 +150,7 @@ a:hover {
 }
 
 a:active {
-    color: 
+    color: #042f63;
 }
 
 .icon-cog {
