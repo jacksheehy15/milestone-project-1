@@ -43,14 +43,30 @@ I designed my Desktop/Tablet/Phone/Laptop Wireframes using Figma, a wireframe de
 
 Mobile Wireframe
 
-![Color Palette Photo](images/phonewire.JPG)
+![Mobile Wireframe](images/phonewire.JPG)
 
 Tablet Wireframe 
 
- ![Color Palette Photo](images/tabletwire.JPG)
+ ![Tablet Wireframe](images/tabletwire.JPG)
 
-Features
-Responsive on all device sizes
+Laptop / Desktop Wireframe 
+ ![Laptop / Desktop Wireframe](images/laptopwire.JPG)
+
+
+**Features**
+- The project consists of 4 pages.. Home, Line Up, Gallery and Info.
+- The menu at the top of the page and footer are consistent in design and responsiveness throughout, except for a different color on each different page of the site.
+- The full Navigation menu shrinks down to a small menu with a hamburger dropdown menu when on smaller devices i.e phones,tablets etc.
+- The navigation bar sticks to the top of the page throughout the whole website.
+- The footer features a quote about the festival, useful links to navigate throughout the website and also includes an Address, Phone Number and Email Address which can all be clicked on to be availed of.
+- The Contact Us button on the Info page leads to a modal which the user can send the organisation a question related to the festival.
+
+stopped here
+
+
+
+
+
 
 Interactive elements
 A hamburger dropdown menu is used in the tablet and mobile version of the webpage.
