@@ -1,12 +1,12 @@
-Blasket Sound Music festival
+#Blasket Sound Music Festival#
 
-Code Institute - Milestone Project for User-Centrick Frontend Developement
+**Code Institute - Milestone Project for User-Centrick Frontend Developement**
 
 ![Responsive Design Photo](images/responsive.JPG)
 
 User Experience (UX)
 
-User stories
+First Time Visitor
 
 First Time Visitor Goals/Needs
 As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
@@ -15,9 +15,8 @@ As a First Time Visitor, I want to look for testimonials to understand what thei
 I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
 Returning Visitor Goals
-As a Returning Visitor, I want to find information about tickets and pricing.
 As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-As a Returning Visitor, I want to find community links.
+As a Returning Visitor, I want to find community and social links.
 
 Frequent User Goals
 As a Frequent User, I want to check to see if there are any newly added artists or features.
@@ -25,22 +24,30 @@ As a Frequent User, I want to check to see if there are any new announcements.
 
 Design
 Colour Scheme
-The two main colours used are white and blue and black for the font.
+The 4 colors I used for the headers are Mango Tango, Baby Blue Eyes, Melon and Sky Blue.
+![Color Palette Photo](images/colors.png)
+
 
 Typography
 The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-Roboto is a clean font that I find attractive and appropriate. I also used the Anton font for the H1 text on the Gallery and Lineup page, just to change it up a bit.
+I also used the Anton font for the headings on the Gallery and Info page with Sans Serif as the fallback font aswell.
 
 Imagery
-Imagery is important. The large, background hero video is designed to be striking and catch the user's attention. 
-It also has a popular edm song playing in the background that will grab the viewers attention.
+Imagery is important. The large, hero video is designed to be striking and catch the user's attention. 
+It also has a popular edm song playing in the background that will also grab the viewers attention.
+
 
 Wireframes
-Desktop/Laptop Wireframe - https://www.figma.com/file/VKebMcOSMv7kaCPIMLpeu0/Blasket-Island-Music-Festival?node-id=1%3A4
+I designed my Desktop/Tablet/Phone/Laptop Wireframes using Figma, a wireframe designing website.
 
-Mobile Wireframe - https://www.figma.com/file/Xnqd0QtC3BAGwYKfHXUx5o/Festival-Mobile?node-id=0%3A1
 
-Tablet Wireframe - https://www.figma.com/file/6DWJYLz2AQcwiKTOvCF4x4/Festival-Tablet?node-id=1%3A3
+Mobile Wireframe
+
+![Color Palette Photo](images/phonewire.JPG)
+
+Tablet Wireframe 
+
+ ![Color Palette Photo](images/tabletwire.JPG)
 
 Features
 Responsive on all device sizes
