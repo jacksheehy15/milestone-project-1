@@ -4,6 +4,14 @@
 
 ![Responsive Design Photo](images/responsive.JPG)
 
+Blasket Sound Music Festival is a fiction music festival based on the Blasket Islands off the coast of my hometown Dingle , County Kerry, Ireland. The idea came to me whilst 
+I was reading through the Code Institute assessment handbook and saw that I had the opportunity to develop a website whichever way I wanted. Personally , I attend as much music
+festivals as possible i.e Tomorrowland, Creamfields, Coachella etc. and I thought it would be great if I built and deployed a music festival website and fictionally made a music 
+festival on the Blasket Islands as I thought people who have the same interest as I do would enjoy it and hopefully it would encourage them to do the same !
+
+This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum 
+of 3 pages using HTML5 and CSS3 , along with any other technologies you would like to use.
+
 User Experience (UX)
 
 First Time Visitor
@@ -53,15 +61,26 @@ Laptop / Desktop Wireframe
  ![Laptop / Desktop Wireframe](images/laptopwire.JPG)
 
 
-**Features**
-- The project consists of 4 pages.. Home, Line Up, Gallery and Info.
+# **Features**
+- The project consists of 4 pages, Home, Line Up, Gallery and Info pages.
 - The menu at the top of the page and footer are consistent in design and responsiveness throughout, except for a different color on each different page of the site.
 - The full Navigation menu shrinks down to a small menu with a hamburger dropdown menu when on smaller devices i.e phones,tablets etc.
+- The video on the Home page is full of features and is able to be viewed in full screen mode.
 - The navigation bar sticks to the top of the page throughout the whole website.
 - The footer features a quote about the festival, useful links to navigate throughout the website and also includes an Address, Phone Number and Email Address which can all be clicked on to be availed of.
 - The Contact Us button on the Info page leads to a modal which the user can send the organisation a question related to the festival.
 
-stopped here
+
+**Home**
+- The navigation bar is what the user first encounters on the home page
+- The user is greeted with a hero video related to a music festival and they soon understand the purpose for this webpage.
+- The user then scrolls down to see images along with some text related to the Blasket Islands and the music festival itself.
+- On smaller devices the Home page remains similar to the desktop/laptop version except for the navigation bar, which turns into a hamburger menu.
+- The footer of the page contains social links, a quote related to the festival, navigation links for different pages of the website and a contact 
+  section with linked items, there is also a copyright section at the bottom of the footer
+
+**Line Up**
+- 
 
 
 
