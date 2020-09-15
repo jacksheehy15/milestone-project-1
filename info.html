@@ -177,93 +177,51 @@
             </strong>
         </footer>
         <!--Modal for Contact Us Form-->
-        <div
-            class="modal fade"
-            id="ContactModal"
-            tabindex="-1"
-            role="dialog"
-            aria-labelledby="myModal"
-            aria-hidden="true"
-            >
-            <div class="modal-dialog modal-lg" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title w-100 font-weight-bold text-center">
-                            Contact Us
-                        </h4>
-                        <button
-                            type="button"
-                            class="close"
-                            data-dismiss="modal"
-                            aria-label="Close"
-                            >
-                        <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body mx-3 text-center">
-                        <div class="md-form mb-5">
-                            <i class="fa fa-envelope prefix grey-text"></i>
-                            <input
-                                type="text"
-                                id="form1"
-                                class="form-control validate"
-                                placeholder="Your Name"
-                                />
-                            <label data-error="wrong" aria-required="true" data-success="right" for="form1"
-                                >Your Name</label
-                                >
-                        </div>
-                        <div class="modal-body mx-3">
-                            <div class="md-form mb-5">
-                                <i class="fa fa-tag prefix grey-text"></i>
-                                <input
-                                    type="text"
-                                    id="form2"
-                                    class="form-control validate"
-                                    placeholder="Email Address"
-                                    />
-                                <label data-error="wrong" aria-required="true" data-success="right" for="form2"
-                                    >Your Email Address</label
-                                    >
-                            </div>
-                            <div class="modal-body mx-3">
-                                <div class="md-form mb-5">
-                                    <i class="fa fa-pencil prefix grey-text"></i>
-                                    <input
-                                        type="text"
-                                        id="form3"
-                                        class="form-control validate"
-                                        placeholder="Subject"
-                                        />
-                                    <label data-error="wrong" aria-required="true" data-success="right" for="form3"
-                                        >Subject</label
-                                        >
-                                </div>
-                                <div class="modal-body mx-3">
-                                    <div class="md-form mb-5">
-                                        <i class="fa fa-inbox prefix grey-text"></i>
-                                        <input
-                                            type="text"
-                                            id="form4"
-                                            class="form-control validate float-right"
-                                            placeholder="Your Message"
-                                            />
-                                        <label data-error="wrong" aria-required="true" data-success="right" for="form4"
-                                            >Your Message</label
-                                            >
-                                    </div>
-                                </div>
-                                <div class="modal-footer d-flex justify-content-center">
-                                    <button class="btn btn-primary">
-                                    Send! <i class="fa fa-paper-plane ml-1"></i>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="modal fade" id="ContactModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">Write to Us!</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <i class="fa fa-user prefix grey-text"></i>          
+          <label data-error="wrong" data-success="right" for="form34">Your Name</label>
+          <input type="text" id="form34" class="form-control validate" placeholder="Your Name">
         </div>
+
+        <div class="md-form mb-5">
+          <i class="fa fa-envelope prefix grey-text"></i>
+          <label data-error="wrong" data-success="right" for="form29">Your Email</label>
+          <input type="email" id="form29" class="form-control validate" placeholder="Your Email">
+          
+        </div>
+
+        <div class="md-form mb-5">
+          <i class="fa fa-tag prefix grey-text"></i>
+          <label data-error="wrong" data-success="right" for="form32">Subject</label>
+          <input type="text" id="form32" class="form-control validate" placeholder="Subject">
+          
+        </div>
+
+        <div class="md-form">
+          <i class="fa fa-pencil prefix grey-text"></i>
+          <label data-error="wrong" data-success="right" for="form8">Your Message</label>
+          <textarea type="text" id="form8" class="md-textarea form-control" rows="4" placeholder="Your Message"></textarea>
+          
+        </div>
+
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <button class="btn btn-primary">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
+      </div>
+    </div>
+  </div>
+</div>
         <!--CDN's-->
         <script
             src="https://code.jquery.com/jquery-3.4.1.slim.min.js"

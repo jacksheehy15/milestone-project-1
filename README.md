@@ -249,7 +249,12 @@ The devices I tested this on were: Moto G4 , Galaxy S5 , Pixel 2 and Pixel 2 XL,
 I also tested my website on my own persoanl devices: MacBook Pro 16", my desktop pc with a 21" monitor, Samsung Galaxy S20 Ultra and a Samsung Galaxy Tab S7.
 
 
+## **Issues Found**
+- When devoloping the Gallery page of the website I noticed that on the iPad and iPad Pro the images would cram together and it would look completely out of the ordinary. 
+I resolved this issue by using the Chrome Developer Tools and changed the layout for images in the gallery on different devices. For dektop/laptop there are 4 rows of images. 
+On tablets under 1024 pixels wide and above 600 pixels, there are 2 rows of images. On mobile devices there is 1 row of a certain amoint of images.
 
+- 
 
 
 
