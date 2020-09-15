@@ -1,6 +1,6 @@
-#Blasket Sound Music Festival#
+# Blasket Sound Music Festival
 
-**Code Institute - Milestone Project for User-Centrick Frontend Developement**
+# **Code Institute - Milestone Project for User-Centric Frontend Developement**
 
 ![Responsive Design Photo](images/responsive.JPG)
 
@@ -12,42 +12,69 @@ festival on the Blasket Islands as I thought people who have the same interest a
 This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum 
 of 3 pages using HTML5 and CSS3 , along with any other technologies you would like to use.
 
-User Experience (UX)
+# **Table Of Contents**
+[Go to Home](#home)
 
-First Time Visitor
+# User Experience (UX)
+This section gives an in-dept look into the UX design process, focusing on who the Blasket Sound Festival website is for and the main aims of the project in the eye of the user.
 
-First Time Visitor Goals/Needs
-As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. 
-I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+## Project Goals:
+* To get people interested in music festivals and music festival websites.
+* To learn about the music festival and the location of the festival.
+* To be able to easily contact Blasket Sound with any enquiries/questions.
+* To present information about the music festival and the artists that will be performing there.
+* To create a website that is fullly responsive on mobiles/laptops tablets and desktops. 
+* To make Blasket Sound appear as a reputable music festival by developing a professional website.
 
-Returning Visitor Goals
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-As a Returning Visitor, I want to find community and social links.
+## User Stories
 
-Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added artists or features.
-As a Frequent User, I want to check to see if there are any new announcements.
+### New Users:
+- I am a user that is new to the music festival scene, I would like to know why it is worth investing my time exploring the Blasket Sound website.
+- I want to learn what is involved in a music festival on an island and what acts will be playing there.
+- I want to attend this festival , but ticket prices arent released yet. I would like to contact the organisation to find out when I can buy tickets.
 
-Design
-Colour Scheme
-The 4 colors I used for the headers are Mango Tango, Baby Blue Eyes, Melon and Sky Blue.
-![Color Palette Photo](images/colors.png)
+### Returning User:
 
+- I am a returning user who has already visited the site and have already been in contact with the organisation, I would like to find out if any new artists have been announced for the festival.
+- I also want to have a look at the gallery from previous years of the festival.
 
-Typography
-The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-I also used the Anton font for the headings on the Gallery and Info page with Sans Serif as the fallback font aswell.
+### Business Owner: 
+- I am the owner of the business , I want to see the business succeed. I would like to clearly show off any impressive photos with our users to get their attention.
 
-Imagery
-Imagery is important. The large, hero video is designed to be striking and catch the user's attention. 
-It also has a popular edm song playing in the background that will also grab the viewers attention.
+### **Strategy Plane:**
+The main goal of the website is to attract users to be interested and enquire about the Blasket Sound festival. The website is aimed at a Festival lover to festival lover audience. 
+It should include imagery related to the topic of the website. I started the UX process by thinking about what I would like to see on a music festival website and I started from there.
 
+### **Scope Plane:**
 
-Wireframes
-I designed my Desktop/Tablet/Phone/Laptop Wireframes using Figma, a wireframe designing website.
+The key features of the website were developed based on user needs. Users should be able to do the following on the website.
 
+- Learn about the Island and where it is situated.
+- Easily get in contact about any sort of questions they may have.
+- Learn about the line up and the artist who may be playing at the festival.
+- View images related to the festival, which essentially leads to a higher interest if the images are appealing to look at.
+- A teaser trailer video related to EDM music festivals.
+- Visit the organisations social media channels.
+- Navigate easily throughout the website.
+
+### **Skeleton Plane:**
+
+This is when I started to develop my wireframes. I used Figma to create the wireframes for each page on desktop/laptop, tablet and mobile.
+
+I aimed to make sure the main content were somewhat similar in design to create consistency, which I think was well executed.
+
+I decided that the user would be greeted with a simple navigation bar with 4 choices - namely: **Home** - consists of information regarding the island and the teaser video, **Line Up** - consists of the festival 
+lineup , along with a nice high quality photo on pyrotechnics at a festival with a header. **Gallery** - consists of a header and a full page of all different type of festival related photos. **Info** - consists of 
+a contact form and an embedded google map of The Great Blasket Island.
+
+Seen as there is alot of imagery on the Gallery page , I decided it would be ideal to put spacing between each picture which will prevent it from looking too busy.
+
+After I was done with the wireframes I started writing my code. There is quite a difference between the appearance of the wireframes and the actual coded website.
+The wireframes were extremely useful when I was coding because it essentially gave me a very accurate idea of where to put what.
+
+The wireframes can be viewed on [Figma](https://www.figma.com/file/VKebMcOSMv7kaCPIMLpeu0/Blasket-Sound-Laptop)
+
+Screenshots of my wireframes can be viewed below:
 
 Mobile Wireframe
 
@@ -61,147 +88,270 @@ Laptop / Desktop Wireframe
  ![Laptop / Desktop Wireframe](images/laptopwire.JPG)
 
 
-# **Features**
-- The project consists of 4 pages, Home, Line Up, Gallery and Info pages.
-- The menu at the top of the page and footer are consistent in design and responsiveness throughout, except for a different color on each different page of the site.
+### **Surface Plane:**
+
+I next moved onto the design work of the website.
+
+**Color Scheme** - Blasket Sound is a summer music festival so ideally I want bright, vibrant colors. The colors I chose are Mango Tango (#F58845), Baby Blue Eyes (#B0CCFF), Melon (#FFC1B0) and Sky Blue (#5BC0DE). 
+You will see these colors across each different navigation bar on each page. Below is a picture of the color palette I got off the website [Coolors](https://coolors.co/)
+
+
+![Color Palette Photo](images/colors.png)
+
+
+**Typography**
+I used Google Fonts to select the fonts for my project.
+The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+I also used the Anton font for the headings on the Gallery and Info page with Sans Serif as the fallback font aswell.
+
+**Imagery**
+Imagery is important. The large, hero video is designed to be striking and catch the user's attention. 
+It also has a popular edm song playing in the background that will also grab the viewers attention.
+I got the majority of the images off [Google Images](https://www.google.com/images)
+I also designed my own logo for the website myself through [Free Logo Design](https://www.freelogodesign.org/)
+
+
+**Layout**
+I decided to use different background colors on the Navigation bar on each page to indicate what page the user is on.
+I wanted the navigation bar color to match with whatever was on the page. I fixed the nav bar on each page also so it is easily accessible by the user if need be.
+I decided to keep the background white on each page and the footer is also identical on each page.
+To make the links and contact info stand out in the footer I decided to change the color of them to a Dark Blue color (#042f63)
+
+
+
+
+# **Features** 
+The project consists of 4 different pages which can be accessed through the menu in the navbar.
+
+## **Consistent features across all pages:**
 - The full Navigation menu shrinks down to a small menu with a hamburger dropdown menu when on smaller devices i.e phones,tablets etc.
-- The video on the Home page is full of features and is able to be viewed in full screen mode.
-- The navigation bar sticks to the top of the page throughout the whole website.
+- The fixed top navbar is consistent throughout the entire website.
+- The menu at the top of the page and footer are consistent in design and responsiveness throughout, except for a different color on each different page of the site.
 - The footer features a quote about the festival, useful links to navigate throughout the website and also includes an Address, Phone Number and Email Address which can all be clicked on to be availed of.
-- The Contact Us button on the Info page leads to a modal which the user can send the organisation a question related to the festival.
 
-
-**Home**
-- The navigation bar is what the user first encounters on the home page
-- The user is greeted with a hero video related to a music festival and they soon understand the purpose for this webpage.
+## **Home:** 
+- The navigation bar is what the user first encounters on the Home page laptop/desktop or a navbar with a hamburger menu on tablets/mobiles.
+- The user is greeted with a hero video related to a music festival that can be viewed in full screen and they soon understand the purpose for this webpage.
 - The user then scrolls down to see images along with some text related to the Blasket Islands and the music festival itself.
 - On smaller devices the Home page remains similar to the desktop/laptop version except for the navigation bar, which turns into a hamburger menu.
 - The footer of the page contains social links, a quote related to the festival, navigation links for different pages of the website and a contact 
-  section with linked items, there is also a copyright section at the bottom of the footer
+  section with linked items, there is also a copyright section at the bottom of the footer.
 
-**Line Up**
-- 
+## **Line Up:**
+- The navigation bar is what the user first encounters on the Lineup page laptop/desktop or a navbar with a hamburger menu on tablets/mobiles.
+- There is then a hero image that is darkened with some white text which lets the text stand out to the viewer.
+- Below the hero image is 3 bootstrap cards which house the date, times and artists names for the festival.
+- The footer of the page contains social links, a quote related to the festival, navigation links for different pages of the website and a contact 
+  section with linked items, there is also a copyright section at the bottom of the footer.
 
+## **Gallery:**
+- The navigation bar is what the user first encounters on the Gallery page on laptop/desktop or a navbar with a hamburger menu on tablets/mobiles.
+- There is then a heading below the navbar menu which states that youre in the "Gallery" section.
+- There are then 4 columns of images related to the music festival on laptop/desktop, 2 columns on tablets and 1 row on mobiles.
+- The footer of the page contains social links, a quote related to the festival, navigation links for different pages of the website and a contact 
+  section with linked items, there is also a copyright section at the bottom of the footer.
 
+## **Info:**
+- The navigation bar is what the user first encounters on the Info page on laptop/desktop or a navbar with a hamburger menu on tablets/mobiles.
+- There is then a hero image that is darkened with some white text which lets the text stand out to the viewer.
+- Under the text in the image is a button where the user can fill out a form to ask the organisation any question they desire.
+- Below that is a header related to the embedded google map that I got from [Google Maps](https://www.google.com/maps/place/The+Blaskets/@52.0807839,-10.5674506,17z/data=!3m1!4b1!4m5!3m4!1s0x484fe78b664b9505:0x612d92860e39d164!8m2!3d52.0807806!4d-10.5652619)
 
+> **_NOTE:_**  There is no 'scroll to top' button on my website seen as the pages are relatively small.
 
+## **Features I could implement in the future:**
+- An online booking/payment system to purchase tickets for the festival.
+- A reviews section , possibly on the 'Info' page, where people give reviews on the festival.
+- A newsletter page would be ideal for users to sign up to and increase the social aspect of the website.
 
+# **Technologies Used**
 
-Interactive elements
-A hamburger dropdown menu is used in the tablet and mobile version of the webpage.
+### **Languages, libraries, frameworks, editors and version control** ##
+- HTML5
+    - The language used to create the form and add content to the website.
+- CSS3
+    - The language used to style the HTML5 elements.
+- JavaScript
+    - I used JavaScript for the Hamburger menu on smaller devices.
+    jQuery:
+- [Boostrap Framework](https://getbootstrap.com/)
+    - I used Bootstraps grid system in order to have a 'mobile-first' approach.
+- [Gitpod](https://gitpod.io)
+    - I used Gitpods developement tools to write the code for the website.
+- [Git Version Control](https://getbootstrap.com/)
+    - I used Git for version control to record changes to my files.
+- [Git Hub](https://github.com/)
+    - I used GitHub's repository hosting service to host my deployed website as well as track previous versions of my code.
 
-Technologies Used
-Languages Used
-HTML5
-CSS3
-Frameworks, Libraries & Programs Used
-Bootstrap 4.4.1:
-Bootstrap was used to assist with the responsiveness and styling of the website.
-Hover.css:
-Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-Google Fonts:
-Google fonts were used to import the 'Oswald' and the fallback font 'Sans Serif' font into the style.css file which is used on all pages throughout the project.
-Font Awesome:
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-jQuery:
-jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-Git
-Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-GitHub:
-GitHub is used to store the projects code after being pushed from Git.
-YouTube 
-YouTube was used to get the hero video (ultra miami trailer)
-Figma 
-Figma was used to creat my template/wireframes and to make my idea come to life.
-FreeLogoDesign
-FreeLogoDesign was used to create the organisation logo that can be found in the header and the footer.
-Testing
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+### **Other Tools Used**
 
-W3C Markup Validator - Results
-W3C CSS Validator - Results
-Testing User Stories from User Experience (UX) Section
-First Time Visitor Goals
-As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+- [Figma](https://figma.com/) 
+    - I used Figma to design wireframes for my website for Laptop/Desktop, mobiles and tablets.
+- [Google Images](https://google.com/images)
+    - I used Google Images to get images for the Gallery side of my website and the hero images.
+- [YouTube](https://youtube.com/)
+    - I used YouTube's video service to get the hero video on the Home page of the website.
+- [Google Fonts](https://fonts.google.com/)
+    - I used the following fonts for the project: Roboto, Anton and Sans Serif fallback.
+- [Free Logo Design](https://www.freelogodesign.org/)
+    - i used this website to design the logo in each navbar of the website.
+- [Font Awesome](https://fontawesome.com/)
+    - Font Awesome provided me with the icons/logos used in the webpage.
 
-Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Video from YouTube.
-The user has a few options, navigate to the gallery , lineup or ticket page or they can stay on the home page and watch the video teaser and read down the webpage.
+### **Educational Resources Used:**
+- [Stack Overflow](https://stackoverflow.com)
+    - Stack Overflow was very helpful in regards to the JavaScript required for the hamburger menu.
+- [W3 Schools](https://w3schools.com/)
+    - W3 Schools was my main website that helped me the most in my project. From basic HTML5 all the way to complicated Bootstrap.
 
-The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-At the bottom of the first 3 pages there is a logo which the user can click on to redirect them to the home page, there is also the organisations social links.
+**_NOTE:_**  The Code Institute Slack community, along with the tutors were a big help during my project aswell.
 
-As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+# **Testing**
 
-Once the new visitor has watched the hero video, they will be greeted by a little article section including an article about our Headline act, where the festival is held and an article about covid-19 related to this years edition of the festival.
-The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-
-Returning Visitor Goals
-As a Returning Visitor, I want to find updated lineup etc.
-
-These are clearly shown in the banner message.
-They will be directed to a page with the lineup on a poster which was made in a 3rd party applicationn.
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-The navigation bar clearly highlights the "Contact Us" section of the footer.
-Here they message the organisation on social media or they can call/email the organisation.
-The footer contains links to the organisations Facebook, Twitter and Instagram and YouTube page as well as the organization's email and phone number.
-Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-
-Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added artists.
-
-The user would already be comfortable with the website layout and can easily click an option in the menu.
-As a Frequent User, I want to check to see if there are any new announcements.
-
-The user would already be comfortable with the website layout and can easily click the social links
-As a Frequent User, I want to be abel to navigate to the organisations social media easily.
-
-At the bottom of every page their is a footer which content is consistent throughout all pages.
-The footer for tablets/laptop the user can see the social links, phone number and email address.
-These will be located in the middle of the footer on a mobile device.
-
-Further Testing
-The Website was tested on Google Chrome, Internet Explorer, Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6, iPhone 8 and the standard iPad and a custom device which I own, a Samsung Galaxy S20 Ultra.
-A large amount of testing was done to ensure that all pages were linking correctly.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-Known Bugs
+## **Testing User Stories:**
+- New user - *I am new to music festivals and need to be convinced and explained as to why I should invest time into the website and festival* - 
+on the homepage, the user is met with a top-stuck navigation menu, containing **Home**, **Line Up**, **Gallery** and **Info**.
+There is then a festival trailer which teases what a music festival is like to the new user.
+There is then images and text related to the festival and the island explaining some basic information about the festival and the island.
+The footer at the bottom of the page consists of 4 sections- the **Festival Quote**, **Useful Links**, **Contact Info** and **Copyright Info**
+The gallery would be the main point of interest for the user , as there is alot of tempting images to be found there.
 
 
+- New User - *I am somewhat familiar with festivals , but I want to see what this festival has to offer.* The user can easily navigate to the line up page to see the artists
+that are playing at the festival. The new user can also get in contact with us by navigating to the **Info** page and then pressing the **Contact Us** button and the user will
+be prompted to fill out a form in which they can ask any question they want.
 
-Deployment
-GitHub Pages
-The project was deployed to GitHub Pages using the following steps...
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
-Scroll down the Settings page until you locate the "GitHub Pages" Section.
-Under "Source", click the dropdown called "None" and select "Master Branch".
-The page will automatically refresh.
-Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-Forking the GitHub Repository
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+Returning user - *I want to ask a question related to the festival , because it is possible I will attend* - The user can easlily navigate to the **Info** page where 
+they can submit a form with their quesion - or else , the user can navigate to the bootom of the page to the footer and they can click on the phone number and it will lead to their Phone application
+if they are on mobile for the user to call us. The user can also click on the email address at the bottom of the footer and it will take the user to their email application where they can send 
+us an email.
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-You should now have a copy of the original repository in your GitHub account.
-Making a Local Clone
-Log in to GitHub and locate the GitHub Repository
-Under the repository name, click "Clone or download".
-To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-Open Git Bash
-Change the current working directory to the location where you want the cloned directory to be made.
-Type git clone, and then paste the URL you copied in Step 3.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-Press Enter. Your local clone will be created.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+Business owner - *As the business owner I want to see a consistent style throughout the whole webpage* - The business owner can navigate throughout the website and they will notice that the navbars are the 
+design, except for different colors on each page. The footers are consistent across all 4 pages. The header font used is consistent across the site and the font used is consistent for all paragraphs.
+
+
+## **Validating The Code:**
+- **HTML** I validated the HTML with the [W3C Markup Validation Service](https://validator.w3.org/)
+- **CSS** I validated the CSS with the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+## **Testing on Different Browsers**
+I manually tested the website on the following browsers:
+- Chrome
+- Safari
+- Mozilla Firefox
+- Samsung Internet
+
+## **Testing responsiveness on multiple devices and screen size:**
+I manually tested the website using Chrome Developer Tools to check every single page, link etc. on as much different devices as possible.
+The devices I tested this on were: Moto G4 , Galaxy S5 , Pixel 2 and Pixel 2 XL, iPhone 6/7/8, iPhone 6/7/8Plus, iPhone X, iPad.
+I also tested my website on my own persoanl devices: MacBook Pro 16", my desktop pc with a 21" monitor, Samsung Galaxy S20 Ultra and a Samsung Galaxy Tab S7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Credits
 Code
@@ -227,7 +377,6 @@ Psychological properties of colours text in the README.md was found here
 Media
 I got all my images from Google Images
 I created the Blasket Sound logo on a website called https://freelogodesign.org
-I created my lineupposter on a website called https://festivalpostergenerator.com/
 Acknowledgements
 My Mentor for continuous helpful feedback.
 The Code Institute slack channel and students who also helped alot
