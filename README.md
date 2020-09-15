@@ -12,6 +12,8 @@ festival on the Blasket Islands as I thought people who have the same interest a
 This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum 
 of 3 pages using HTML5 and CSS3 , along with any other technologies you would like to use.
 
+Click [here](https://jacksheehy15.github.io/Blasket-Sound-2021/info.html) to see the website live
+
 # **Table Of Contents**
 [Go to Home](#home)
 
@@ -252,12 +254,20 @@ I also tested my website on my own persoanl devices: MacBook Pro 16", my desktop
 ## **Issues Found**
 - When devoloping the Gallery page of the website I noticed that on the iPad and iPad Pro the images would cram together and it would look completely out of the ordinary. 
 I resolved this issue by using the Chrome Developer Tools and changed the layout for images in the gallery on different devices. For dektop/laptop there are 4 rows of images. 
-On tablets under 1024 pixels wide and above 600 pixels, there are 2 rows of images. On mobile devices there is 1 row of a certain amoint of images.
+On tablets under 1024 pixels wide and above 600 pixels, there are 2 rows of images. On mobile devices there is 1 row of a certain amount of images.
 
-- 
+- Once I had finished the layout of my website I was really happy with it. My mentor had noticed that my navbar wasnt stuck to the top of the page so she told me to change it. 
+That was a slight issue I had to resolve. Thanks to
+a few extra lines of code and help from the Slack channel, I got the navbar to stick to the top of the page at all times.
 
+- On tablets , the gallery had a little white spacing between the right column and the right side of the screen, I used Chrome Developer Tools to find out what was causing that and I found out there
+was a right margin of 15px so I went into CSS and fixed that and the gallery looked perfect.
 
+- The biggest issue I encountered during my project was Bootstrap. I'm not quite sure why , but I found Bootstrap extremely hard to understand. It took me about 2 weeks into my project to properly
+understand Bootstrap in all its glory. Now that I am familiar with Bootstrap I feel alot more confident.
 
+# **Deployment**
+This project was developed in GitPod and deployed to the hosting platform [GitHub Pages](https://www.google.com/images)
 
 
 
@@ -339,50 +349,3 @@ On tablets under 1024 pixels wide and above 600 pixels, there are 2 rows of imag
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Credits
-Code
-The full-screen hero video code came from YouTube @ Ultra Music Festival
-
-Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
-MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
-
-W3 Schools : For helpinng to understand the responsive side of bootstrap
-
-YouTube : YouTube had alot of tutorials to offer to help me with my project and bootstrap. I'd like to give credit to Anna Ghilespy for her Bootstrap 4 grid system tutorial video.
-
-Slack : I'd like to thank the fellow students on the Slack channel especially Bim Williams and Bartek Makowski. Bim helped me wrap my head around bootstrap and Bartek helped me understand Wireframing a bit more.
-
-Reddit : Reddithelped alot for some questions I couldnt't find the answer to.
-
-Content
-All content was written by the developer.
-
-Psychological properties of colours text in the README.md was found here
-
-Media
-I got all my images from Google Images
-I created the Blasket Sound logo on a website called https://freelogodesign.org
-Acknowledgements
-My Mentor for continuous helpful feedback.
-The Code Institute slack channel and students who also helped alot
-Tutor support at Code Institute for their support.
