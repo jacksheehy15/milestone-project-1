@@ -12,7 +12,7 @@ festival on the Blasket Islands as I thought people who have the same interest a
 This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum 
 of 3 pages using HTML5 and CSS3 , along with any other technologies you would like to use.
 
-Click [here](https://jacksheehy15.github.io/Blasket-Sound-2021/info.html) to see the website live
+Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to see the website live
 
 # **Table Of Contents**
 [Go to Home](#home)
@@ -269,7 +269,72 @@ understand Bootstrap in all its glory. Now that I am familiar with Bootstrap I f
 # **Deployment**
 This project was developed in GitPod and deployed to the hosting platform [GitHub Pages](https://www.google.com/images)
 
+I took the following steps to deploy Blasket Sound 2021 to Github pages.
+- Searched GiHub in Chrome browser and signed in using my GitHub account.
+- Clicked on [My Repositories.](https://github.com/jacksheehy15?tab=repositories)
+- Navigated to [milestone-project-1.](https://github.com/jacksheehy15/milestone-project-1)
+- Selected [Settings.](https://github.com/jacksheehy15/milestone-project-1/settings)
+- Scrolles down to the GitHub Pages are of the page.
+- Selected 'Master Branch' from the 'source' dropdown menu.
+- Confirmed my selection.
+- Blasket Sound 2021 is now live on [GitHub Pages.](https://www.google.com/images)
 
+### To deploy your own version of thwe website
+- Have git installed.
+- Visit the [Repo.](https://github.com/jacksheehy15/milestone-project-1)
+- Click 'Clone or Download' and copy the code for http.
+- Open your chosen IDE (Cloud9, Vs Code etc.)
+- Open a terminal for your root directory.
+- Type 'git clone' followed by the code taken from the repository.
+- When you have completed all these steps, you have your own version of the website !
+
+The website can be run by opening one of the HTML files within a web browser.
+
+Visit the link provided. Your website with any made changes will appear.
+
+Saved changes to the website will appear here after refreshing the page.
+
+The benefits of hosting your website on GitHub pages is that any pushed changes to your project will automatically update the website. Development branches can be created and merged to the master when complete. It may take a moment for changes to appear on the hosted website.
+
+# **Credits**
+
+## **Content**
+
+The content on this website is mostly fictional regarding the festival being held on an island. all the images are taken from the internet, I will reference them all below.
+
+I found the website [Lollapalooza.com](https://www.lollapalooza.com/) and [Tomorrowland.com](https://www.tomorrowland.com/) really useful when I was looking for what kind of content I need to have.
+
+A massive thank you to my mentor Seun Owinokoko for suggesting that I look through the following README.md file by a fellow Code Institute student Chloe.
+- [Chloe's README.md file](https://github.com/chloelewisdev/milestone-project-1/blob/master/README.md#User-Experience)
+
+## **Media** 
+The images/video on this website were taken online, a full list of the links can be found below.
+- [The hero image on the info page.](https://www.google.com/search?q=sweish+house+maifa+fire&tbm=isch&ved=2ahUKEwjUy_PF4-3rAhVKEsAKHa-DD4EQ2-cCegQIABAA&oq=sweish+house+maifa+fire&gs_lcp=CgNpbWcQA1CII1j4J2DnKmgAcAB4AIABMogB6gGSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=oBJiX9T7K8qkgAavh76ICA&bih=1036&biw=1920)
+- [The 2 images on the home page](https://www.google.com/search?q=hideout+festival&tbm=isch&ved=2ahUKEwiuoIXJ4-3rAhUJNMAKHZSCDNIQ2-cCegQIABAA&oq=hideout+festival&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgUIABCxAzoICAAQsQMQgwE6BAgAEEM6BwgAELEDEENQqskGWKTlBmDV5gZoAHAAeACAAVWIAYcIkgECMTaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=pxJiX-6wEonogAaUhbKQDQ&bih=1036&biw=1920)
+- [The Video from the home page.](https://www.youtube.com/watch?v=fz8VM-jnXds)
+- [Line Up page hero](https://images.app.goo.gl/HHYk6CHNxU5znxXv5)
+- [Gallery picture 1](https://www.google.com/search?tbs=sbi:AMhZZiuXckeFBzEaALQ6uftvbDqW7LUddyBF330nXkW7r_1cn98hrqO6XlOtH5GTLsSgCnlE_1iSqLZuiJSt4pIy60xQ5dMlatp_1Nkyaqa6eF6uD9xhfbLzM0wajm9wFuWpDv7FRErGijcAgBWZj3izRe2w7KXM6ua4wYuhTGdSGx7X4ZHtN1T4xbDHM9UkTRNEMARtuUoyVn5u8V30-7H7r_10B79Ug-pmVqO1PmaHZb2Bw_1lmIezJpQaYljq_1Yp-ADM7RuDRn5U-11B3fPyGVcuTBA0qzooLHUrcx0i23RXJLySmdsvZULVV7lLKy-pG5sJHFl8cIh4-kvxaTInhs-5XVQuqVC6cl9w)
+- [Gallery picture 2](https://www.google.com/search?tbs=sbi:AMhZZitG_1-NYmDDBYqv_1pLayMiVP8dv-gNR4MDIq38YmfN1aSeccrmi3eZT-iOZsqjEjw1GFz4WHb8OIkWD7DMOY6pl6CpZOAUTvEvuLe_1Z766fQFn2jjpGuYVIn5duCgQVl2xQR_1vBPXpp-VQ7j6-rWNaZQiDNpFc2sFnQiM0ZguMi3Wm6IZZGp8MEg0IMLjVOye8z_1IEa9OqDJY98BP17pbuW0zEUE981VaJqZ7R5HX4ACBok8d67MH_120o4GdztmZxLzxkip-kYXaoxg4THQMED0LLqoW_14N3jgsB6y9me4dy-xKwOyHHSoPcPi4Cdl5DYWJNOQBnpHpwIUhQk6-nTPwEyWuMRw)
+- [Gallery picture 3](https://www.google.com/search?tbs=sbi:AMhZZiuUmvznufkbIM9Fhtn2aB4bj3T8cBZjvshNnCoCPDETfGcGi_1e_1Y9j1ymZ-7Wb1HiC11W77Xacl6DykkdBFHl2rL10URHL1cj-_1BM5L7FNHFAKEZX3s_14ktEfFWMEbCj7tJ0KNQo3vzeRSkmOu0vfH4mMkj0ylsLiXhJt4hN9vn4gP9CYyQ9QtFttOce18RAl_1RfYdUPjBROllll2TWpodCybM5EUWNf4hDDF-7gBftQya3AUaXX7-Y3DvttuSK99ZFod-2fhyR1gEWsuILBaWLXVkcn2xk-DMBo7O5l-bguQQGRElOY0x6OXPobK--M55yee5857Gt5_13z-UVVBWpmnIB9cw)
+- [Gallery picture 4](https://www.google.com/search?tbs=sbi:AMhZZisv9F0yMnljZ-BpDFMfPKXkLrM-d5l4CdPJTeCGB6XHZEqYnbDWXZ7PwLVCvnYr0v9DyYUtA2LuU8HV4bgFs0B2IK8qlZP0cTUUkVBWqgntEjYnolVyNsvBifCs2ChHdS0aeM5NdEoOGTny0MhZzlhmrVXff68T8HMbNbhENHB1ngZDHlR0dSjsBAaklG1tgE3k4zUwxaDZLOeEWyzgLSF7V886E1IH48HSKWYwMXV0ot891bwd9pAO9G3bwxtxMjBSh_1kOVgd0-hl7DU-ZrSuO9WN5n_16YHfL6o5szp_1QwYJ_1XXo7I6pDLhjjbf-OVqSe7lsREGnurYZNzlsfqtDtXk0oMPw)
+- [Gallery picture 5](https://www.google.com/search?tbs=sbi:AMhZZiv5BfV963nD4F6F1ZWaHpQ4vWcS-MUg4O6bfVhj7O4ZHYYQMc2IlWFCDDaxsKz0tswU3Bzg0A0z2M6hrB39JB2NibtzkEuIdAjzDJ6t2XDZKguEGCUxxtAb0jonzHTMFtD60l8kx5D2gZnx7pHFULPdd6TIidPJKU48ZlvQEyRLff7hZmOmfccMD9DIBZ-CoEIF7JlinRLANRtuIzad_1vd6LOAfZ8yj9x_1VEDhhPqyrxsPwg4O-s3kMRTPRKOcGZt2rJPcQCaN85UerE9ZzJ35fNpBqJxQEfFErbIxPY8jgox0FpEwitaA0IFm8hkfSeoctAFqPTxRKoBBhoJRhi6-yCJAL4Q)
+- [Gallery picture 6](https://www.google.com/search?tbs=sbi:AMhZZiuMv_1fvTTGP0-aQx_1p6Xv-OpDYi5XPdYTSIrRIBr9HPHO18hqv5yCkXeJ-InitycWVjsyBht1TUfo2IsBxh0SaF6p0oU7rRjtEtYCJPpMq0jRTOKNvTkiBeZ-SDmouIPkcj9Gyhv-2FvGJDH1j0eXVxBWtqkAJNRbiJ4oZzCIYXEQnOgJj3KAgWYkPHnR44gBg2enT_1Kzd6fQN8JDVep1E5myA9aHiUKB5bL52JMVjcIlayowVUPQ2vE_1mvZH0bE1I4H0BDMqwUCFhwn4hmmYwxClx0cGLhm-jwrXarPj5UCj2Wa2kW2CtYZ80K_1iBqLd5TBUrXoIjmw8CgghgzMzoYkzgfkA)
+- [Gallery picture 6](https://www.google.com/search?tbs=sbi:AMhZZiuMv_1fvTTGP0-aQx_1p6Xv-OpDYi5XPdYTSIrRIBr9HPHO18hqv5yCkXeJ-InitycWVjsyBht1TUfo2IsBxh0SaF6p0oU7rRjtEtYCJPpMq0jRTOKNvTkiBeZ-SDmouIPkcj9Gyhv-2FvGJDH1j0eXVxBWtqkAJNRbiJ4oZzCIYXEQnOgJj3KAgWYkPHnR44gBg2enT_1Kzd6fQN8JDVep1E5myA9aHiUKB5bL52JMVjcIlayowVUPQ2vE_1mvZH0bE1I4H0BDMqwUCFhwn4hmmYwxClx0cGLhm-jwrXarPj5UCj2Wa2kW2CtYZ80K_1iBqLd5TBUrXoIjmw8CgghgzMzoYkzgfkA)
+- [Gallery picture 7](https://www.google.com/search?tbs=sbi:AMhZZivk1d45o9ynd2wMIIVMV5_1rTaEQ6KLTODk_1xLuRDZuVP2NW0NyA7TcELWd0LlJjQi6bkB2kg0YfCOTYpyGoeSyR_1ZtS_10QWd5OYHIElldVtnoRy3gjyZoS9I5VqKKrNddevO9n3OQZjfl6KID_1racHBfkJjcZ_1mX3g70gJmMhNRAuyBiWnFYQs4un5PeFCcaqVZ5imHu4iJ4ikkxU1FymphJDHQFDAdUZBTi7Ct88xTVk15NYogKA-VhbFQ2B53-r_1pPb7O7p5n3JY3pwqLm8E3h_1zfumSFdgTVKG8Bi-gRrs_1EUX1Mj65SpWuJRIvBSozgHcf6T5k1iaW2uhmrEzShfeardA)
+- [Gallery picture 8](https://www.google.com/search?tbs=sbi:AMhZZitQir1dewxtcs0nd2mM3QKUh_19ZYbhm2130Ud8jPpFVNDbJsuCp23gLORTZgrcW2jlbTkSYKzZqRa5r2x6csBBDinM40Hwdbw1nprzxjSIXO7N154GQVt1FztLuUukl-0f90ryx9mbHge3yQdsYPSjy3k0QxlX7soG7It7ybIYvx7nkDShJAo1V939sawrUZcZoQ5fE31vsJFkef2Efm5cVEdV7F60wNsOnfLis0Gjyog7O3fvVDAkCMPU_1UfFkKRXn2_1KbcZFhQmcjQdeIQP8PYNFArGsOVb8_15p5Mk-PxJXPOM5KFtSw-Kf4aahS68W_1P0S5ICDm4cSZg4qoj0VGdrddORw)
+- [Gallery picture 9](https://www.google.com/search?tbs=sbi:AMhZZivW3HM9kQ89VlGmnlgAxQ-CmBL1Ndb8kQYyjIYgblmB8SgonIIYi4u-KixXmtlgycWPHsgnqDnw68uWvZrGRc-O_1eZg092Fgjo5v-gTvQSb9RhcW1jqNkITW1ei-TW6cn_1O5HnsUDh58p5sviut7FWCM1ho6gRgX_1gEryvK5bTfsHrsE24hcD8CV17J_1RKXhQfufPyABDAdtU4KQP6ERbZu_1Jua8gfugW8QZ9N3p8U3Xy_1wMWErk4TBZTUtdSEjN0NWYIzLAK392ILmaKxkYPZNDL3MJeJGwgh9geNrFWBVK6Ea7PmlddamH1CWWY9nZdO6DL5zePB9H7iD0FPSZXt2I59h1g)
+- [Gallery picture 10](https://www.google.com/search?tbs=sbi:AMhZZit4nXKoUpzCnzOfhgOJZb6P_13uWzwf4stWYGVs4MNIyVWmUuud0UsAlk7g7xTM9D3Uaxe59qWCQ0Gb6y1_1LAOdt29RcZBCdzso3sht20_1YWciWd74_1YoRablQWX4fapvVt4c_1M-Sl0ZZUmqUSABtm_1ZrUKw_12fQAYbQTP0VlXVO-D4lekkv-pzsx3fWhJoxw5ab7myofcYSj1D-vsBETX3imR4WvaqMLJxG7kuEAe8xtKzx5KQiqcQyG201nnhEG5cKWqCCVmcv-QGuylGLbMqlD-9DUBxGgyUd2KzXuPd1JeSdYm7q4ch0xKi00_10kUwVs7DTWfb3QGpYUlGZYFdcT5A4n7w)
+- [Gallery picture 11](https://www.google.com/search?tbs=sbi:AMhZZit4kUew3gi1NL9oWiKfRyYGPe4GIpEpmrecMCBjEE1PBA3Gc-8_1PcKJAf9aQuCS7yvuX1s0yMhWTNx9jEzKy3hY86MMP-ShgkVT6Ch8eAhon6ciS83USGz4wBP6ivkNdXdNvh8i0k0_1kJVaudjer0gsCA1xglAn9N2inOa1Jv56iqtGVSSf_15-sv62zPnb7xN3-1CAKfVC4Q_1BKaGnoHiT95qQJAAkp9pNLicGQi_1vGBegMzkVgTNtUHtIczHuqAtU0q68cA9neE1RaSCyqVTzCWVU43YD2jspl4NfRX_1bhoLutv8z9pnRYBb4bmObArg3Btn4B9b3fHNL7sfI7SlrpRO7yWg)
+- [Gallery picture 12](https://www.google.com/search?tbs=sbi:AMhZZiteDAYFjV-saORo1Tuvjm467NxscpXW-vKa7JhODqGlVEcK6gokk_1PjI_1rXcP93kfAltOkpazXoWgAWYjn9nDfHBriHzXCuO7y51fo_1BZx7GkGEEEc1PPdAjDYmpy_1nLMxSwb6He-g0Gw0gyWwRoWUNk3VmzVfeKeizlTpLmxKvw9Rzv1QGifurimrxLGZgXyTlowRs0cS6ap7sD3LIV84PACa6pBN4dEaQQbMfvaOpDg7WkJrdrJGEmLYIeE71UyadgD4cxAXfT4wNY8iqYFJGJRdYsqf8kyJRuIZLXILDtQfgy7521mx4796lhh9JPqvFX3gZ9P_1UFUDKPAYtSFK0TU3a8w)
+- [Gallery picture 13](https://www.google.com/search?tbs=sbi:AMhZZiu0Lq91g4zha38kQoSVQ0zW_1YC-fwvTDvFp0XQzW4TUfRV_1ic1RBVwsG3iIajo_1ACsd6ab1gaxI7AtXrbUuqIgHoK1WX3dklqDvrxoYTQNkhzHDUdiuy0CcLVX3QeGcign0lV_1V2FdY1-0hx25aZ08MGPJxi0uQqwvPxgQJg8aUrUjr0ygS3uCnxXvIahzc4FU19c_1aYmK-FFWG2Q-ULqCbX0hS1K6n1YNmYoUqQmQ5TuF9ZSNxP3DMDe3l1FCdQ4nBolYgz13gcufjGy7Zba0Osz0KL7OhRlo5vq_1OrtlNssG8p3LPk_1mKfygZkyTkQDW4QxVLyol7vcvXLQKQ1AV1arfIqw)
+- [Gallery picture 14](https://www.google.com/search?tbs=sbi:AMhZZivJxBItp-20EIVDwei7_1uhZVLaGH2sk1ho6jrFomDd_1gKrvTb0CTziubEVH9JaSl8whpHmPo85wqaj6ZgHah9CpN8SVBfiUVyrGLuF3aUqOKbmhB-uH51Vta4z_1Ed7Tm2ZVxwODqTizVwjvSr3tiPg9RqS2PuDoGc-FVpeK1PmOuNgMBYbryGsSMUPBZhxNeNZDXcL-j5T4mVk8ddL65ht6RRelZ2mf7riLrlBfXe2AQkfWk6_1NIDVLwvcXqXG_1hIRLtu8LJX0JXtSIVnwM3roZnZzf_1daH31DhR7oD7DFNpZaDMzUy-5xJhpZ8d_1sV5oQRxSihJbRaimQmaT8VG-wPoU5UOA)
+- [Gallery picture 15](https://www.google.com/search?tbs=sbi:AMhZZivU2QYquRikpz3VLkGq8G1LB8eK0cR8WUzZoS2A8vMsDDKPWzdPfQ7GxRmbVkIfC1ubKqNtzwwezZWO5d0qXMfiDJuXAobM7s_1SDgDcFR3msrMpwcmFBSkHZk_1Wwmd4wefa5C4QJCIJcQyDrZwqX7hH0UOG0zZcBHL3fhHItct6Rhr2gAn5W8paw0Nwmt662GfmvxeQZCqTQVLSpw0UJCIbRxqVO2OwLJsdIWBlp2FQsjQISvTvfUi_1VuR8wU39pnEZYZi4vDIpiSNcYtZ5i3mCyOa-NDc9ROD9Ki8lCVC_1IRqhx05wJqvrpVE_1fmkfmuhTCUkpcghRzZ8n_1kf2zuAyBW5rWA)
+
+# **Acknowledgments**
+Thank you to my mentor Seun Owinokoko for her knowlege, time and help when I needed it most.
+Thanks to The Code Institute slack community.
+Thanks to my brother and father who looked over the website on their mobile phones and made sure everything looked good.
+Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further. And thank you to Bartek Makowski for giving me great feedback on my wireframes.
 
 
 
