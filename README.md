@@ -16,7 +16,7 @@ Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to se
 
 # **Table Of Contents**
 [Go to User Experience](#user-experience)
-[Go to Design Process](#deisgn-process)
+[Go to Design Process](#design-process)
 [Go to Home](#home)
 [Go to Home](#home)
 [Go to Home](#home)
