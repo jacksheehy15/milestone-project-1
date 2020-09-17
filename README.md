@@ -1,6 +1,6 @@
 # Blasket Sound Music Festival
 
-# **Code Institute - Milestone Project for User-Centric Frontend Developement**
+## **Code Institute - Milestone Project for User-Centric Frontend Developement**
 
 ![Responsive Design Photo](images/responsive.JPG)
 
@@ -15,6 +15,20 @@ of 3 pages using HTML5 and CSS3 , along with any other technologies you would li
 Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to see the website live
 
 # **Table Of Contents**
+[Go to User Experience](#user-experience)
+[Go to Design Process](#deisgn-process)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
+[Go to Home](#home)
 [Go to Home](#home)
 
 # User Experience (UX)
@@ -43,11 +57,13 @@ This section gives an in-dept look into the UX design process, focusing on who t
 ### Business Owner: 
 - I am the owner of the business , I want to see the business succeed. I would like to clearly show off any impressive photos with our users to get their attention.
 
-### **Strategy Plane:**
+# **Design Process**
+
+## **Strategy Plane:**
 The main goal of the website is to attract users to be interested and enquire about the Blasket Sound festival. The website is aimed at a Festival lover to festival lover audience. 
 It should include imagery related to the topic of the website. I started the UX process by thinking about what I would like to see on a music festival website and I started from there.
 
-### **Scope Plane:**
+## **Scope Plane:**
 
 The key features of the website were developed based on user needs. Users should be able to do the following on the website.
 
@@ -59,7 +75,7 @@ The key features of the website were developed based on user needs. Users should
 - Visit the organisations social media channels.
 - Navigate easily throughout the website.
 
-### **Skeleton Plane:**
+## **Skeleton Plane:**
 
 This is when I started to develop my wireframes. I used Figma to create the wireframes for each page on desktop/laptop, tablet and mobile.
 
