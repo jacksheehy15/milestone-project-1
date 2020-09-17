@@ -4,13 +4,13 @@
 
 ![Responsive Design Photo](images/responsive.JPG)
 
-Blasket Sound Music Festival is a fiction music festival based on the Blasket Islands off the coast of my hometown Dingle , County Kerry, Ireland. The idea came to me whilst 
-I was reading through the Code Institute assessment handbook and saw that I had the opportunity to develop a website whichever way I wanted. Personally , I attend as much music
-festivals as possible i.e Tomorrowland, Creamfields, Coachella etc. and I thought it would be great if I built and deployed a music festival website and fictionally made a music 
+Blasket Sound Music Festival is a fiction music festival based on the Blasket Islands off the coast of my hometown Dingle, County Kerry, Ireland. The idea came to me whilst 
+I was reading through the Code Institute assessment handbook and saw that I had the opportunity to develop a website whichever way I wanted. Personally, I attend as much music
+festivals as possible, i.e Tomorrowland, Creamfields, Coachella etc. and I thought it would be great if I built and deployed a music festival website and fictionally made a music 
 festival on the Blasket Islands as I thought people who have the same interest as I do would enjoy it and hopefully it would encourage them to do the same !
 
 This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum 
-of 3 pages using HTML5 and CSS3 , along with any other technologies you would like to use.
+of 3 pages using HTML5 and CSS3, along with any other technologies you would like to use.
 
 Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to see the website live
 
@@ -22,7 +22,7 @@ Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to se
 [Go to Testing](#testing)
 [Go to Deployment](#deployment)
 [Go to Credits](#credits)
-[Go to Acknowledgements](#acknowledgements)
+[Go to Acknowledements](#acknowledgments)
 
 # User Experience (UX)
 This section gives an in-dept look into the UX design process, focusing on who the Blasket Sound Festival website is for and the main aims of the project in the eye of the user.
@@ -299,7 +299,7 @@ I took the following steps to deploy Blasket Sound 2021 to Github pages.
 - Confirmed my selection.
 - Blasket Sound 2021 is now live on [GitHub Pages.](https://www.google.com/images)
 
-### To deploy your own version of thwe website
+### To deploy your own version of the website
 - Have git installed.
 - Visit the [Repo.](https://github.com/jacksheehy15/milestone-project-1)
 - Click 'Clone or Download' and copy the code for http.
