@@ -350,84 +350,12 @@ The images/video on this website were taken online, a full list of the links can
 # **Acknowledgments**
 
 Thanks to The Code Institute slack community.
+
 Thanks to my brother and father who looked over the website on their mobile phones and made sure everything looked good.
-Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further. And thank you to Bartek Makowski for giving me great feedback on my wireframes.
+
+Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further, and thank you to Bartek Makowski for giving me great feedback on my wireframes.
+
 A massive thank you to my mentor Seun Owinokoko for her knowlege, time and help when I needed it the most.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
