@@ -17,19 +17,12 @@ Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to se
 # **Table Of Contents**
 [Go to User Experience](#user-experience)
 [Go to Design Process](#design-process)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
-[Go to Home](#home)
+[Go to Features](#features)
+[Go to Technologies Used](#technologies-used)
+[Go to Testing](#testing)
+[Go to Deployment](#deployment)
+[Go to Credits](#credits)
+[Go to Acknowledgements](#acknowledgements)
 
 # User Experience (UX)
 This section gives an in-dept look into the UX design process, focusing on who the Blasket Sound Festival website is for and the main aims of the project in the eye of the user.
@@ -331,7 +324,7 @@ The content on this website is mostly fictional regarding the festival being hel
 
 I found the website [Lollapalooza.com](https://www.lollapalooza.com/) and [Tomorrowland.com](https://www.tomorrowland.com/) really useful when I was looking for what kind of content I need to have.
 
-A massive thank you to my mentor Seun Owinokoko for suggesting that I look through the following README.md file by a fellow Code Institute student Chloe.
+A massive thank you to my mentor Seun Owonikoko for suggesting that I look through the following README.md file by a fellow Code Institute student Chloe.
 - [Chloe's README.md file](https://github.com/chloelewisdev/milestone-project-1/blob/master/README.md#User-Experience)
 
 - I got the code for the Contact Form [Here](https://mdbootstrap.com/docs/jquery/modals/forms/) 
@@ -371,7 +364,7 @@ Thanks to my brother and father who looked over the website on their mobile phon
 
 Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further, and thank you to Bartek Makowski for giving me great feedback on my wireframes.
 
-A massive thank you to my mentor Seun Owinokoko for her knowlege, time and help when I needed it the most.
+A massive thank you to my mentor Seun Owonikoko for her knowlege, time and help when I needed it the most.
 
 
 
