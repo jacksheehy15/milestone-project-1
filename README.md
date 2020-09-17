@@ -238,6 +238,17 @@ design, except for different colors on each page. The footers are consistent acr
 - **HTML** I validated the HTML with the [W3C Markup Validation Service](https://validator.w3.org/)
 - **CSS** I validated the CSS with the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
+### **Validation Results**
+#### **HTML**
+- Home Page - No Errors Found
+- Line Up Page - No Errors Found
+- Gallery Page - No Errors Found
+- Info Page - No Errors Found
+
+#### **CSS**
+- No Errors Found
+
+
 ## **Testing on Different Browsers**
 I manually tested the website on the following browsers:
 - Chrome
@@ -307,6 +318,12 @@ I found the website [Lollapalooza.com](https://www.lollapalooza.com/) and [Tomor
 A massive thank you to my mentor Seun Owinokoko for suggesting that I look through the following README.md file by a fellow Code Institute student Chloe.
 - [Chloe's README.md file](https://github.com/chloelewisdev/milestone-project-1/blob/master/README.md#User-Experience)
 
+- I got the code for the Contact Form [Here](https://mdbootstrap.com/docs/jquery/modals/forms/) 
+
+- I formatted my HTML code using [Free Online HTML Formatter](https://www.freeformatter.com/html-formatter.html) 
+
+- I formatted my HTML code using [Free Online CSS Beautifier](https://www.freeformatter.com/css-beautifier.html) 
+
 ## **Media** 
 The images/video on this website were taken online, a full list of the links can be found below.
 - [The hero image on the info page.](https://www.google.com/search?q=sweish+house+maifa+fire&tbm=isch&ved=2ahUKEwjUy_PF4-3rAhVKEsAKHa-DD4EQ2-cCegQIABAA&oq=sweish+house+maifa+fire&gs_lcp=CgNpbWcQA1CII1j4J2DnKmgAcAB4AIABMogB6gGSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=oBJiX9T7K8qkgAavh76ICA&bih=1036&biw=1920)
@@ -331,11 +348,11 @@ The images/video on this website were taken online, a full list of the links can
 - [Gallery picture 15](https://www.google.com/search?tbs=sbi:AMhZZivU2QYquRikpz3VLkGq8G1LB8eK0cR8WUzZoS2A8vMsDDKPWzdPfQ7GxRmbVkIfC1ubKqNtzwwezZWO5d0qXMfiDJuXAobM7s_1SDgDcFR3msrMpwcmFBSkHZk_1Wwmd4wefa5C4QJCIJcQyDrZwqX7hH0UOG0zZcBHL3fhHItct6Rhr2gAn5W8paw0Nwmt662GfmvxeQZCqTQVLSpw0UJCIbRxqVO2OwLJsdIWBlp2FQsjQISvTvfUi_1VuR8wU39pnEZYZi4vDIpiSNcYtZ5i3mCyOa-NDc9ROD9Ki8lCVC_1IRqhx05wJqvrpVE_1fmkfmuhTCUkpcghRzZ8n_1kf2zuAyBW5rWA)
 
 # **Acknowledgments**
-Thank you to my mentor Seun Owinokoko for her knowlege, time and help when I needed it most.
+
 Thanks to The Code Institute slack community.
 Thanks to my brother and father who looked over the website on their mobile phones and made sure everything looked good.
 Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further. And thank you to Bartek Makowski for giving me great feedback on my wireframes.
-
+A massive thank you to my mentor Seun Owinokoko for her knowlege, time and help when I needed it the most.
 
 
 
