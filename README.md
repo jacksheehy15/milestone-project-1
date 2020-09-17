@@ -2,7 +2,7 @@
 
 ## **Code Institute - Milestone Project for User-Centric Frontend Developement**
 
-![Responsive Design Photo](images/responsive.JPG)
+![Responsive Design Photo](images/responsive1.JPG)
 
 Blasket Sound Music Festival is a fiction music festival based on the Blasket Islands off the coast of my hometown Dingle, County Kerry, Ireland. The idea came to me whilst 
 I was reading through the Code Institute assessment handbook and saw that I had the opportunity to develop a website whichever way I wanted. Personally, I attend as much music
@@ -15,14 +15,14 @@ of 3 pages using HTML5 and CSS3, along with any other technologies you would lik
 Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to see the website live
 
 # **Table Of Contents**
-[Go to User Experience](#user-experience)
-[Go to Design Process](#design-process)
-[Go to Features](#features)
-[Go to Technologies Used](#technologies-used)
-[Go to Testing](#testing)
-[Go to Deployment](#deployment)
-[Go to Credits](#credits)
-[Go to Acknowledements](#acknowledgments)
+- [Go to User Experience](#user-experience)
+- [Go to Design Process](#design-process)
+- [Go to Features](#features)
+- [Go to Technologies Used](#technologies-used)
+- [Go to Testing](#testing)
+- [Go to Deployment](#deployment)
+- [Go to Credits](#credits)
+- [Go to Acknowledements](#acknowledgments)
 
 # User Experience (UX)
 This section gives an in-dept look into the UX design process, focusing on who the Blasket Sound Festival website is for and the main aims of the project in the eye of the user.
