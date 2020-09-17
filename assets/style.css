@@ -4,26 +4,26 @@ body {
    margin-top: 100px;
 }
 
-
-/*Info Page Work*/
-
-#info-nav {
-   background-color: #f58845;
-}
-
-
 /* Home Page Work*/
+
 
 #home-nav {
    background-color: #b0ccff;
 }
 
+.ultra-video {
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+   .video-height {
+    height: 300px; 
+   }
+}
 
 /* Gallery Work */
 
-#gallery-nav {
-   background-color: #ffc1b0;
-}
 
 .row {
    display: flex;
@@ -58,7 +58,7 @@ body {
       max-width: 100%;
    }
 }
-
+ 
 
 /* Nav Work */
 
@@ -68,6 +68,10 @@ body {
 
 
 /* Gallery Images Work */
+
+.margin-bot {
+    margin-bottom: 10px;
+}
 
 #img1 {
    width: 100%;
@@ -80,7 +84,12 @@ body {
 }
 
 
-/* LineUp Image/Text */
+/* LineUp Page */
+
+.lineup-margin {
+    padding-right: 0;
+    padding-left: 0;
+}
 
 .lineup-hero-image {
    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/lineup-hero.jpg");
@@ -98,6 +107,11 @@ body {
    left: 50%;
    transform: translate(-50%, -50%);
    color: white;
+}
+
+.lineup-title {
+    text-align: center;
+
 }
 
 
