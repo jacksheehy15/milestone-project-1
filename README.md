@@ -1,21 +1,28 @@
 # Blasket Sound Music Festival
 
-# **Code Institute - Milestone Project for User-Centric Frontend Developement**
+## **Code Institute - Milestone Project for User-Centric Frontend Developement**
 
 ![Responsive Design Photo](images/responsive.JPG)
 
-Blasket Sound Music Festival is a fiction music festival based on the Blasket Islands off the coast of my hometown Dingle , County Kerry, Ireland. The idea came to me whilst 
-I was reading through the Code Institute assessment handbook and saw that I had the opportunity to develop a website whichever way I wanted. Personally , I attend as much music
-festivals as possible i.e Tomorrowland, Creamfields, Coachella etc. and I thought it would be great if I built and deployed a music festival website and fictionally made a music 
+Blasket Sound Music Festival is a fiction music festival based on the Blasket Islands off the coast of my hometown Dingle, County Kerry, Ireland. The idea came to me whilst 
+I was reading through the Code Institute assessment handbook and saw that I had the opportunity to develop a website whichever way I wanted. Personally, I attend as much music
+festivals as possible, i.e Tomorrowland, Creamfields, Coachella etc. and I thought it would be great if I built and deployed a music festival website and fictionally made a music 
 festival on the Blasket Islands as I thought people who have the same interest as I do would enjoy it and hopefully it would encourage them to do the same !
 
 This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum 
-of 3 pages using HTML5 and CSS3 , along with any other technologies you would like to use.
+of 3 pages using HTML5 and CSS3, along with any other technologies you would like to use.
 
 Click [here](https://jacksheehy15.github.io/milestone-project-1/info.html) to see the website live
 
 # **Table Of Contents**
-[Go to Home](#home)
+[Go to User Experience](#user-experience)
+[Go to Design Process](#design-process)
+[Go to Features](#features)
+[Go to Technologies Used](#technologies-used)
+[Go to Testing](#testing)
+[Go to Deployment](#deployment)
+[Go to Credits](#credits)
+[Go to Acknowledements](#acknowledgments)
 
 # User Experience (UX)
 This section gives an in-dept look into the UX design process, focusing on who the Blasket Sound Festival website is for and the main aims of the project in the eye of the user.
@@ -43,11 +50,13 @@ This section gives an in-dept look into the UX design process, focusing on who t
 ### Business Owner: 
 - I am the owner of the business , I want to see the business succeed. I would like to clearly show off any impressive photos with our users to get their attention.
 
-### **Strategy Plane:**
+# **Design Process**
+
+## **Strategy Plane:**
 The main goal of the website is to attract users to be interested and enquire about the Blasket Sound festival. The website is aimed at a Festival lover to festival lover audience. 
 It should include imagery related to the topic of the website. I started the UX process by thinking about what I would like to see on a music festival website and I started from there.
 
-### **Scope Plane:**
+## **Scope Plane:**
 
 The key features of the website were developed based on user needs. Users should be able to do the following on the website.
 
@@ -59,7 +68,7 @@ The key features of the website were developed based on user needs. Users should
 - Visit the organisations social media channels.
 - Navigate easily throughout the website.
 
-### **Skeleton Plane:**
+## **Skeleton Plane:**
 
 This is when I started to develop my wireframes. I used Figma to create the wireframes for each page on desktop/laptop, tablet and mobile.
 
@@ -290,7 +299,7 @@ I took the following steps to deploy Blasket Sound 2021 to Github pages.
 - Confirmed my selection.
 - Blasket Sound 2021 is now live on [GitHub Pages.](https://www.google.com/images)
 
-### To deploy your own version of thwe website
+### To deploy your own version of the website
 - Have git installed.
 - Visit the [Repo.](https://github.com/jacksheehy15/milestone-project-1)
 - Click 'Clone or Download' and copy the code for http.
@@ -315,7 +324,7 @@ The content on this website is mostly fictional regarding the festival being hel
 
 I found the website [Lollapalooza.com](https://www.lollapalooza.com/) and [Tomorrowland.com](https://www.tomorrowland.com/) really useful when I was looking for what kind of content I need to have.
 
-A massive thank you to my mentor Seun Owinokoko for suggesting that I look through the following README.md file by a fellow Code Institute student Chloe.
+A massive thank you to my mentor Seun Owonikoko for suggesting that I look through the following README.md file by a fellow Code Institute student Chloe.
 - [Chloe's README.md file](https://github.com/chloelewisdev/milestone-project-1/blob/master/README.md#User-Experience)
 
 - I got the code for the Contact Form [Here](https://mdbootstrap.com/docs/jquery/modals/forms/) 
@@ -350,84 +359,12 @@ The images/video on this website were taken online, a full list of the links can
 # **Acknowledgments**
 
 Thanks to The Code Institute slack community.
+
 Thanks to my brother and father who looked over the website on their mobile phones and made sure everything looked good.
-Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further. And thank you to Bartek Makowski for giving me great feedback on my wireframes.
-A massive thank you to my mentor Seun Owinokoko for her knowlege, time and help when I needed it the most.
 
+Thank you to 2 fellow Code Institute slack members, Bim Williams for helping me understand Bootstrap further, and thank you to Bartek Makowski for giving me great feedback on my wireframes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A massive thank you to my mentor Seun Owonikoko for her knowlege, time and help when I needed it the most.
 
 
 
